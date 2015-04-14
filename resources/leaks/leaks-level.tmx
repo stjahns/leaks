@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" nextobjectid="43">
  <tileset firstgid="1" name="Block" tilewidth="32" tileheight="32">
-  <image source="../space_roaches/sprites/Block.png" width="32" height="32"/>
+  <image source="Block.png" width="32" height="32"/>
   <tile id="0">
    <properties>
     <property name="prefab" value="BlockTilePrefab"/>

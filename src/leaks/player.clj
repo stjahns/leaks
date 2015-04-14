@@ -1,4 +1,4 @@
-(ns ripple.leaks.player
+(ns leaks.player
   (:use [pallet.thread-expr])
   (:require [brute.entity :as e]
             [ripple.components :as c]
