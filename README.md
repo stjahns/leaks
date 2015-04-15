@@ -1,36 +1,9 @@
-# leaks
+# Leaks!
 
-FIXME: description
+A demo project for the [Ripple] framework
 
-## Installation
+[Play Now!](https://dl.dropboxusercontent.com/u/40178155/leaks.jar)
 
-Download from http://example.com/FIXME.
+## Credits
 
-## Usage
-
-FIXME: explanation
-
-    $ java -jar leaks-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Jan Poliakevitch, Music, Art and Design
